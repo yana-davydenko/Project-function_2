@@ -4,5 +4,16 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="project-for" />
+    <orderEntry type="module" module-name="Project-function" />
+    <orderEntry type="module" module-name="Project-list" />
+    <orderEntry type="module" module-name="Project-python" />
+    <orderEntry type="module" module-name="Project-random" />
+    <orderEntry type="module" module-name="Project-while" />
+    <orderEntry type="module" module-name="Project-year" />
+    <orderEntry type="module" module-name="python Project1.1" />
+    <orderEntry type="module" module-name="pythonProject" />
+    <orderEntry type="module" module-name="pythonProject-list" />
+    <orderEntry type="module" module-name="pythonProject-year" />
   </component>
 </module>

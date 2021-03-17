@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Project-function/.idea/Project-function.iml" filepath="$PROJECT_DIR$/../Project-function/.idea/Project-function.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Project-function_2.iml" filepath="$PROJECT_DIR$/.idea/Project-function_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Project-list/.idea/Project-list.iml" filepath="$PROJECT_DIR$/../Project-list/.idea/Project-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Project-python/.idea/Project-python.iml" filepath="$PROJECT_DIR$/../Project-python/.idea/Project-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Project-random/.idea/Project-random.iml" filepath="$PROJECT_DIR$/../Project-random/.idea/Project-random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Project-while/.idea/Project-while.iml" filepath="$PROJECT_DIR$/../Project-while/.idea/Project-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Project-year/.idea/Project-year.iml" filepath="$PROJECT_DIR$/../Project-year/.idea/Project-year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project-for/.idea/project-for.iml" filepath="$PROJECT_DIR$/../project-for/.idea/project-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python Project1.1/.idea/python Project1.1.iml" filepath="$PROJECT_DIR$/../python Project1.1/.idea/python Project1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject-list/.idea/pythonProject-list.iml" filepath="$PROJECT_DIR$/../pythonProject-list/.idea/pythonProject-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject-year/.idea/pythonProject-year.iml" filepath="$PROJECT_DIR$/../pythonProject-year/.idea/pythonProject-year.iml" />
     </modules>
   </component>
 </project>
